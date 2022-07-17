@@ -1,4 +1,4 @@
-from operator import add, sub, mul
+from operator import add, sub
 
 
 def a_plus_abs_b(a, b):
